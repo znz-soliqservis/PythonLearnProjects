@@ -6,4 +6,4 @@ def print_hi(name):
 # Press Ctrl+F8 to toggle the breakpoint.
 name = input("hello")
 if __name__ == '__main__':
-    print_hi('PyCharm pidr')
+    print_hi('PyCharm norm')
