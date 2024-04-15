@@ -8,3 +8,5 @@ name = input("hello")
 if __name__ == '__main__':
     print_hi('PyCharm norm')
 		print_hi(name)
+
+#проверка кода
